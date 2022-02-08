@@ -1,0 +1,22 @@
+
+{
+    "principal.title" : "Time Control App",
+    "password": "password",
+    "comments": "Please add your comments here",
+    "mail.empty": "Email is required",
+    "pass.empty": "Password is required",
+    "mail.short": "Email must be at least 4 characters long",
+    "pass.short": "Password must be at least 4 characters long",
+    "welcome": "Welcome",
+    "checkin": "Check In",
+    "checkout": "Check Out",
+    "pattern": "You should include a valid email",
+    "credentials": "If you don't have credentials please write to info@movicoders.com",
+    "checkin.reminder": "Press check in if you entered work",
+    "checkout.reminder": "Press check out if you are leaving work"
+
+
+
+  }
+  
+
